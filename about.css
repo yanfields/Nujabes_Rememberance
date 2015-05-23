@@ -1,0 +1,60 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: url("http://imageshack.com/a/img673/7403/OC9N0G.png"); }
+
+#page_wrap {
+  width: 80%;
+  margin-left: 8em;
+  margin-top: 2em;
+  background: #FFFFFF;
+  height: 80em;
+  border-top: 0.2em solid #3FA2C3; }
+  #page_wrap #main_title {
+    font-family: "Raleway", sans-serif;
+    line-height: 1.6em;
+    position: relative;
+    top: 3em; }
+    #page_wrap #main_title h2 {
+      text-align: center; }
+    #page_wrap #main_title h4 {
+      text-align: center;
+      color: #999999; }
+  #page_wrap #main_nav {
+    margin-left: 0em;
+    margin-top: 5em;
+    font-family: "Raleway", sans-serif; }
+    #page_wrap #main_nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      border-style: solid;
+      border-width: 0.1em;
+      border-color: #E5E5E5;
+      padding: 1em; }
+      #page_wrap #main_nav ul li {
+        display: inline-block; }
+        #page_wrap #main_nav ul li a {
+          text-decoration: none;
+          font-weight: 600;
+          color: black;
+          margin-right: 2em;
+          margin-left: 11.5em;
+          border-style: solid;
+          border-width: 0.1em;
+          border-color: #E5E5E5;
+          padding: 1em; }
+        #page_wrap #main_nav ul li a:hover {
+          color: #3FA2C3; }
+  #page_wrap #about_section {
+    margin-top: 3em;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600; }
+    #page_wrap #about_section p {
+      line-height: 1.5em; }
+      #page_wrap #about_section p span {
+        text-decoration: underline; }
+  #page_wrap #nuj_image img {
+    width: 100%; }
+
+/*# sourceMappingURL=about.css.map */
